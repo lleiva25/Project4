@@ -6,7 +6,7 @@ Contributors
 - Kimberly Toro (@torok839098)
 - Kevin Tian (@kevinxtian1)
 - Vanessa Vazquez (@15vvanessa)
-- Steve Islava (@)
+- Steve Islava (@steveIslava)
   
 --------------------------------------------------------------------------------------------------------------
 Background
