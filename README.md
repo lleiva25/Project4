@@ -83,7 +83,7 @@ Future Implimentations
 - Raise awareness in the community.
 
 --------------------------------------------------------------------------------------------------------------
-Future Implimentations
+Sources
 --------------------------------------------------------------------------------------------------------------
 California Department of Conservation
 https://data.ca.gov/dataset/california-important-farmland-most-recent
